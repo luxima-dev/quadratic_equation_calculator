@@ -5,7 +5,7 @@ This calculator is designed to determine the quantitative ratio of the form ax ^
 Python 3.10 is required to run
 
 ```
-git clone https://github.com/luxima-dev/quadratic-equation-solver.git
-cd quadratic-equation-solver
+git clone https://github.com/luxima-dev/quadratic-equation-calculator.git
+cd quadratic-equation-calculator
 python ./main.py
 ```
